@@ -2,7 +2,7 @@
 
 ## 🛠️ Usage
 **Customize Permission Texts**
-```
+```ContentView.swift
 import SwiftUI
 
 struct ContentView: View {
