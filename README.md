@@ -24,8 +24,20 @@ For Xcode 13
    2. Paste the repository URL (https://github.com/SNQ-2001/ReviewRequestSwiftUI) and click Next.
 
 **Cocoapods**
+You can also install PermissionsSwiftUI with Cocoapods. Add pod 'ReviewRequestSwiftUI' in your podfile:
+```
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
 
-support coming soon
+target 'Your App' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for ElectricBulletinBoard
+  pod 'ReviewRequestSwiftUI'
+
+end
+```
 
 ## 🛠️ Usage
 **Customize Texts**
