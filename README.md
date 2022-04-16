@@ -26,7 +26,7 @@ For Xcode 13
 **Cocoapods**
 
 You can also install PermissionsSwiftUI with Cocoapods. Add pod 'ReviewRequestSwiftUI' in your podfile:
-```
+```Podfile.text
 # Uncomment the next line to define a global platform for your project
 # platform :ios, '9.0'
 
