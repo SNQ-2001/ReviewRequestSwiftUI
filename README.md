@@ -31,7 +31,8 @@ For Xcode 13
 
 ***CocoaPods***
 
-You can also install ReviewRequestSwiftUI with Cocoapods. Add pod 'ReviewRequestSwiftUI' in your podfile:
+You can also install ReviewRequestSwiftUI with Cocoapods. 
+Add pod 'ReviewRequestSwiftUI' in your podfile:
 ```Ruby
 platform :ios, '14.0'
 
