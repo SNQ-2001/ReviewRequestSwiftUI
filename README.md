@@ -12,12 +12,12 @@ If you like the project, please `Star ⭐️`.
 ![ReviewRequestSwiftUI](https://user-images.githubusercontent.com/84154073/163721501-cbda9ce7-347d-4627-a425-c172cf371c6b.png)
 
 ## 🖥️ Installation
-### Requirements
+### - Requirements -
 - iOS 14
 
-### Install
+### - Install -
 
-**Swift Package Manager**
+***Swift Package Manager***
 
 You can install ReviewRequestSwiftUI into your Xcode project via SPM. To learn more about SPM, click here
 
@@ -29,7 +29,7 @@ For Xcode 13
    1. navigate to Files → Add Package
    2. Paste the repository URL (https://github.com/SNQ-2001/ReviewRequestSwiftUI) and click Next.
 
-**CocoaPods**
+***CocoaPods***
 
 You can also install ReviewRequestSwiftUI with Cocoapods. Add pod 'ReviewRequestSwiftUI' in your podfile:
 ```Ruby
