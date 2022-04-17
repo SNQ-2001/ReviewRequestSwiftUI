@@ -67,4 +67,4 @@ struct ContentView: View {
 ```
 |1|2|
 |---|---|
-|![Simulator Screen Shot - iPhone 12 - 2022-04-18 at 00 45 37](https://user-images.githubusercontent.com/84154073/163722695-71e1a8cb-bd20-45f3-82b8-0d0a153b2f44.png)|![Simulator Screen Shot - iPhone 12 - 2022-04-18 at 00 45 43](https://user-images.githubusercontent.com/84154073/163722705-85d5f2fa-b88d-45c0-a462-480f4cf108ac.png)|
+|![Simulator Screen Shot - iPhone 12 - 2022-04-18 at 00 45 37](https://user-images.githubusercontent.com/84154073/163723026-b0444739-ccb8-43c6-b539-f03fd51e4c78.png)|![Simulator Screen Shot - iPhone 12 - 2022-04-18 at 00 45 43](https://user-images.githubusercontent.com/84154073/163723035-c7185a35-b3c6-45df-b8e0-4a0308605f9e.png)|
