@@ -26,7 +26,7 @@ For Xcode 13
 **Cocoapods**
 
 You can also install PermissionsSwiftUI with Cocoapods. Add pod 'ReviewRequestSwiftUI' in your podfile:
-```Podfile.lock
+```Ruby
 platform :ios, '14.0'
 
 target 'Your App' do
@@ -38,7 +38,7 @@ end
 
 ## 🛠️ Usage
 **Customize Texts**
-```ContentView.swift
+```Swift
 import SwiftUI
 
 struct ContentView: View {
