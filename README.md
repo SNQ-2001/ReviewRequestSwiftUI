@@ -65,3 +65,7 @@ struct ContentView: View {
    }
 }
 ```
+<p>
+   ![Simulator Screen Shot - iPhone 12 - 2022-04-18 at 00 45 37](https://user-images.githubusercontent.com/84154073/163722461-2bae7b4e-60cb-4358-9eb0-ceb88d9c398d.png)
+   ![Simulator Screen Shot - iPhone 12 - 2022-04-18 at 00 45 43](https://user-images.githubusercontent.com/84154073/163722467-8fba8cc9-6ca1-4d8d-acba-6273f5e261fa.png)
+</p>
