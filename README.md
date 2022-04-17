@@ -65,7 +65,7 @@ struct ContentView: View {
    }
 }
 ```
-<p>
+<p style="display: flex">
    <img src="https://user-images.githubusercontent.com/84154073/163722461-2bae7b4e-60cb-4358-9eb0-ceb88d9c398d.png" />
    <img src="https://user-images.githubusercontent.com/84154073/163722467-8fba8cc9-6ca1-4d8d-acba-6273f5e261fa.png" />
 </p>
