@@ -25,7 +25,7 @@ For Xcode 13
 
 **Cocoapods**
 
-You can also install PermissionsSwiftUI with Cocoapods. Add pod 'ReviewRequestSwiftUI' in your podfile:
+You can also install ReviewRequestSwiftUI with Cocoapods. Add pod 'ReviewRequestSwiftUI' in your podfile:
 ```Ruby
 platform :ios, '14.0'
 
