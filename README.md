@@ -10,36 +10,35 @@
 - iOS 14
 
 ### Install
+
 **Swift Package Manager**
+
 You can install ReviewRequestSwiftUI into your Xcode project via SPM. To learn more about SPM, click here
 
 For Xcode 12
-1. open your project and navigate to File → Swift Packages → Add Package Dependency...
-2. Paste the repository URL (https://github.com/SNQ-2001/ReviewRequestSwiftUI) and click Next.
-
+   1. open your project and navigate to File → Swift Packages → Add Package Dependency...
+   2. Paste the repository URL (https://github.com/SNQ-2001/ReviewRequestSwiftUI) and click Next.
+ 
 For Xcode 13
-1. navigate to Files → Add Package
-2. Paste the repository URL (https://github.com/SNQ-2001/ReviewRequestSwiftUI) and click Next.
+   1. navigate to Files → Add Package
+   2. Paste the repository URL (https://github.com/SNQ-2001/ReviewRequestSwiftUI) and click Next.
 
-**Cocoapods**
-You can also install PermissionsSwiftUI with Cocoapods. Add pod 'ReviewRequestSwiftUI' in your podfile:
-```
-# Uncomment the next line to define a global platform for your project
-# platform :ios, '9.0'
+**CocoaPods**
+
+You can also install ReviewRequestSwiftUI with Cocoapods. Add pod 'ReviewRequestSwiftUI' in your podfile:
+```Ruby
+platform :ios, '14.0'
 
 target 'Your App' do
-  # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
-
-  # Pods for ElectricBulletinBoard
   pod 'ReviewRequestSwiftUI'
 
 end
 ```
 
 ## 🛠️ Usage
-**Customize Permission Texts**
-```
+**Customize Texts**
+```Swift
 import SwiftUI
 
 struct ContentView: View {

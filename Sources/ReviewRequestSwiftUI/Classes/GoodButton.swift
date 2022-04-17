@@ -10,10 +10,11 @@ import StoreKit
 
 struct GoodButton: View {
     @Binding var ShowReviewRequest: Bool
+    @Environment(\.colorScheme) private var colorScheme: ColorScheme
     var screenSizeConstant: CGFloat
     var body: some View {
         HStack(spacing: 0) {
-            SVGView(name: "thumbs-up")
+            SVGView(name: colorScheme == .dark ? "thumbs-up-white" : "thumbs-up-black")
                 .aspectRatio(contentMode: .fit)
                 .foregroundColor(.black)
                 .font(.system(size: screenSizeConstant))
