@@ -9,10 +9,11 @@ import SwiftUI
 
 struct BadButton: View {
     @Binding var PushBad: Bool
+    @Environment(\.colorScheme) private var colorScheme: ColorScheme
     var screenSizeConstant: CGFloat
     var body: some View {
         HStack(spacing: 0) {
-            SVGView(name: "thumbs-down")
+            SVGView(name: colorScheme == .dark ? "thumbs-down-white" : "thumbs-down-black")
                 .aspectRatio(contentMode: .fit)
                 .foregroundColor(.black)
                 .font(.system(size: screenSizeConstant))

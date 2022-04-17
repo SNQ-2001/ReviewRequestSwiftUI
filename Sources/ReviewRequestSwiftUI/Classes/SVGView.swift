@@ -27,7 +27,7 @@ struct SVGView: UIViewControllerRepresentable {
             fatalError("init(coder:) has not been implemented")
         }
         override func loadView() {
-            view = UIImageView(image: UIImage(named: name))
+            view = UIImageView(image: UIImage(named: name, in: Bundle.module, compatibleWith: nil))
         }
     }
 }
