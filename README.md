@@ -5,6 +5,10 @@
 
 ![ReviewRequestSwiftUI](https://user-images.githubusercontent.com/84154073/163719969-be6eed7e-328c-49c6-a79a-208dd863679e.png)
 
+This project was created with reference to PermissionsSwiftUI.
+
+If you like the project, please `Star ⭐️`
+
 ## Requirements
 
 - iOS 14
@@ -25,7 +29,9 @@ For Xcode 13
 
 **- CocoaPods -**
 
-You can also install ReviewRequestSwiftUI with Cocoapods. Add pod 'ReviewRequestSwiftUI' in your podfile:
+You can also install ReviewRequestSwiftUI with CocoaPods. 
+
+Add pod 'ReviewRequestSwiftUI' in your podfile:
 ```Ruby
 platform :ios, '14.0'
 
@@ -58,3 +64,7 @@ struct ContentView: View {
    }
 }
 ```
+
+|1|2|
+|---|---|
+|![Simulator Screen Shot - iPhone 12 - 2022-04-18 at 00 45 37](https://user-images.githubusercontent.com/84154073/163723026-b0444739-ccb8-43c6-b539-f03fd51e4c78.png)|![Simulator Screen Shot - iPhone 12 - 2022-04-18 at 00 45 43](https://user-images.githubusercontent.com/84154073/163723035-c7185a35-b3c6-45df-b8e0-4a0308605f9e.png)|
