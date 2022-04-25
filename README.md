@@ -1,19 +1,17 @@
 # ReviewRequestSwiftUI
-[![GitHub issues](https://img.shields.io/github/issues/SNQ-2001/ReviewRequestSwiftUI)](https://github.com/SNQ-2001/ReviewRequestSwiftUI/issues)
-[![GitHub forks](https://img.shields.io/github/forks/SNQ-2001/ReviewRequestSwiftUI)](https://github.com/SNQ-2001/ReviewRequestSwiftUI/network)
-[![GitHub stars](https://img.shields.io/github/stars/SNQ-2001/ReviewRequestSwiftUI)](https://github.com/SNQ-2001/ReviewRequestSwiftUI/stargazers)
-[![GitHub license](https://img.shields.io/github/license/SNQ-2001/ReviewRequestSwiftUI)](https://github.com/SNQ-2001/ReviewRequestSwiftUI/blob/main/LICENSE)
-[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FSNQ-2001%2FReviewRequestSwiftUI)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/SNQ-2001/Twifter)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/SNQ-2001/Twifter/blob/main/LICENSE)
+[![Twitter](https://img.shields.io/twitter/follow/_SNQ?style=social)](https://twitter.com/_SNQ)
 
 ![ReviewRequestSwiftUI](https://user-images.githubusercontent.com/84154073/163719969-be6eed7e-328c-49c6-a79a-208dd863679e.png)
 
-## 🖥️ Installation
-### Requirements
+## Requirements
+
 - iOS 14
 
-### Install
+## Install
 
-**Swift Package Manager**
+**- Swift Package Manager -**
 
 You can install ReviewRequestSwiftUI into your Xcode project via SPM. To learn more about SPM, click here
 
@@ -25,7 +23,7 @@ For Xcode 13
    1. navigate to Files → Add Package
    2. Paste the repository URL (https://github.com/SNQ-2001/ReviewRequestSwiftUI) and click Next.
 
-**CocoaPods**
+**- CocoaPods -**
 
 You can also install ReviewRequestSwiftUI with Cocoapods. Add pod 'ReviewRequestSwiftUI' in your podfile:
 ```Ruby
@@ -39,7 +37,6 @@ end
 ```
 
 ## 🛠️ Usage
-**Customize Texts**
 ```Swift
 import SwiftUI
 
