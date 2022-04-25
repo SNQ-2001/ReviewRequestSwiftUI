@@ -3,8 +3,13 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/SNQ-2001/Twifter/blob/main/LICENSE)
 [![Twitter](https://img.shields.io/twitter/follow/_SNQ?style=social)](https://twitter.com/_SNQ)
 
-![ReviewRequestSwiftUI](https://user-images.githubusercontent.com/84154073/163719969-be6eed7e-328c-49c6-a79a-208dd863679e.png)
+This project was created with reference to PermissionsSwiftUI.
 
+If you like the project, please `Star ⭐️`.
+
+![ReviewRequestSwiftUI](https://user-images.githubusercontent.com/84154073/163721501-cbda9ce7-347d-4627-a425-c172cf371c6b.png)
+
+<<<<<<< HEAD
 This project was created with reference to PermissionsSwiftUI.
 
 If you like the project, please `Star ⭐️`
@@ -16,6 +21,15 @@ If you like the project, please `Star ⭐️`
 ## Install
 
 **- Swift Package Manager -**
+=======
+## 🖥️ Installation
+### - Requirements -
+- iOS 14
+
+### - Install -
+
+***Swift Package Manager***
+>>>>>>> 3100e08f8a5edaa8d13949bc0c780ba0345c8de8
 
 You can install ReviewRequestSwiftUI into your Xcode project via SPM. To learn more about SPM, click here
 
@@ -27,10 +41,17 @@ For Xcode 13
    1. navigate to Files → Add Package
    2. Paste the repository URL (https://github.com/SNQ-2001/ReviewRequestSwiftUI) and click Next.
 
+<<<<<<< HEAD
 **- CocoaPods -**
 
 You can also install ReviewRequestSwiftUI with CocoaPods. 
 
+=======
+***CocoaPods***
+
+You can also install ReviewRequestSwiftUI with Cocoapods. 
+
+>>>>>>> 3100e08f8a5edaa8d13949bc0c780ba0345c8de8
 Add pod 'ReviewRequestSwiftUI' in your podfile:
 ```Ruby
 platform :ios, '14.0'
@@ -64,7 +85,10 @@ struct ContentView: View {
    }
 }
 ```
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3100e08f8a5edaa8d13949bc0c780ba0345c8de8
 |1|2|
 |---|---|
 |![Simulator Screen Shot - iPhone 12 - 2022-04-18 at 00 45 37](https://user-images.githubusercontent.com/84154073/163723026-b0444739-ccb8-43c6-b539-f03fd51e4c78.png)|![Simulator Screen Shot - iPhone 12 - 2022-04-18 at 00 45 43](https://user-images.githubusercontent.com/84154073/163723035-c7185a35-b3c6-45df-b8e0-4a0308605f9e.png)|
